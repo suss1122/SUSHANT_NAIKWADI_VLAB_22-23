@@ -1,0 +1,133 @@
+.calculator{
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 50px;
+    background-color:blanchedalmond;
+    border: solid rgb(99, 30, 30) 10px;
+}
+h1{
+    font-size: 50px;
+    font-family: cursive;
+
+}
+.input{
+    display:flex;
+    justify-content: center;
+    padding: 20px;
+    border-color: transparent;
+    font-weight: bold;
+}
+.functions1{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+
+}
+.functions2{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.functions3{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.output{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border-color: transparent;
+    font-weight: bold;
+}
+.inputbox{
+    width: 100px;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-color: transparent;
+}
+.buttons1{
+    width: 100px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-color: transparent;
+    font-weight: bold;
+    font-size:20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+.buttons2{
+    width: 100px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-color: transparent;
+    font-weight: bold;
+    font-size:20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+.button3{
+    width: 250px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-color: transparent;
+    font-weight: bold;
+    font-size:20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+.outputbox{
+    width: 250px;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-color: transparent;
+    font-weight: bold;
+}
+.length{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.breadth{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.answer{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    font-weight: bold;
+}
+.outputbox2{
+    width: 100px;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-color: transparent;
+    font-weight: bold;
+}
+.area{
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 50px;
+    background-color: blanchedalmond;
+    border:rgb(99, 30, 30) solid 10px;
+}
+p{
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+}
